@@ -86,16 +86,20 @@ The accompanying research paper reports the following proposed-model results:
 
 These are the values reported in the paper; results from a new run may differ depending on the dataset split, preprocessing, and training environment.
 
-## Publication
 
-**A Deep Residual Attention U-Net for Robust Retinal Vessel Segmentation**
-
-2025 International Conference on Signal Processing, Computation, Electronics, Power and Telecommunication (IConSCEPT).
-
-DOI: https://doi.org/10.1109/IConSCEPT66142.2025.11436904
 
 ## Notes
 
 - The FIVES dataset and trained model weights are not included in this repository.
 - Check dataset terms before downloading or redistributing data.
 - This project is for academic and research purposes and is not a medical diagnostic device.
+
+  
+## Research Publication
+
+**Title:** A Deep Residual Attention U-Net for Robust Retinal Vessel Segmentation
+
+**Conference:** 2025 International Conference on Signal Processing, Computation, Electronics, Power and Telecommunication (IConSCEPT).
+
+**DOI:** https://doi.org/10.1109/IConSCEPT66142.2025.11436904
+
