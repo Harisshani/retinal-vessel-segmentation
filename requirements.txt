@@ -1,0 +1,7 @@
+tensorflow
+opencv-python
+numpy
+natsort
+scikit-learn
+scikit-image
+Pillow
